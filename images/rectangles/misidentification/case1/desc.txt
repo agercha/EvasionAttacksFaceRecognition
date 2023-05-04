@@ -1,0 +1,5 @@
+trick into thinking user 0 is user 14
+compare against array of all photos of each user
+50 per iter, generate 100
+big changes allowed
+sort by each possible distance, depend on iteration
